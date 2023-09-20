@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "image": "images/allupakoida.jpg",
+    "name": "aloo pakora",
+    "category": "Breakfast",
+    "price": "₹20",
+    "text": "Aloo pakora are soft melt-in-the-mouth fried potato fritters coated in a delicious, golden, crispy batter."
+  },
+  {
+    "id": 2,
+    "image": "images/maggi.jpg",
+    "name": "maggi",
+    "category": "Breakfast",
+    "price": "12₹",
+    "text": "Maggi is an international brand of seasonings, instant soups, and noodles that originated in Switzerland in the late 19th century."
+  },
+  {
+    "id": 3,
+    "image": "images/corn.jpg",
+    "name": "corn",
+    "category": "Breakfast",
+    "price": "₹10",
+    "text": "Corn is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago."
+  },
+  {
+    "id": 4,
+    "image": "images/pav.jpg",
+    "name": "Pav Bhaji",
+    "category": "Dinner",
+    "price": "₹250",
+    "text": "Pav bhaji is a fast food dish from India consisting of a thick vegetable curry served with a soft bread roll. Its origins are in the state of Maharashtra."
+  }, 
+  {
+    "id": 5,
+    "image": "images/nonvegthali.jpg",
+    "name": "Non-Veg Thali",
+    "category": "Dinner",
+    "price": "₹180",
+    "text": "This thali consists of chicken curry, aloo gobi, dal fry, roti, carrot halwa, boondi raita, and rice"
+  },
+  {
+    "id": 6,
+    "image": "images/chola.jpg",
+    "name": "chole",
+    "category": "Lunch",
+    "price": "₹60",
+    "text": "Chole is a Punjabi word for chickpeas and masala is a word for spices. So this dish is nothing but chickpeas cooked to perfection with various spices, onions, tomatoes and herbs."
+  },
+  {
+    "id": 7,
+    "image": "images/pizza.jpg",
+    "name": "pizza",
+    "category": "Dinner",
+    "price": "₹180",
+    "text": "Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven."
+  },
+  {
+    "id": 8,
+    "image": "images/poha.jpg",
+    "name": "Poha",
+    "category": "Breakfast",
+    "price": "₹30",
+    "text": "Pohaa, also known as pauwa, sira, chira, aval or avalakki, among many other names, is flattened rice originating from the Indian subcontinent. Rice is parboiled before flattening so that it can be consumed with very little to no cooking."
+  }, 
+  {
+    "id": 10,
+    "image": "images/rajmarice.jpg",
+    "name": "Rajma Rice",
+    "category": "Lunch",
+    "price": "₹60",
+    "text": "Rajma chawal(rice) is a rice dish where cooked rice is mixed with rajma masala or kidney beans masala. A comfort food that comes together in a jiffy."
+  },
+  {
+    "id": 11,
+    "image": "images/samosa.jpg",
+    "name": "samaso",
+    "category": "Breakfast",
+    "price": "₹15",
+    "text": "A samosa or singara is a fried South Asian pastry with a savory filling, including ingredients such as spiced potatoes, onions, and peas. It may take different forms, including triangular, cone, or half-moon shapes, depending on the region."
+  },
+  {
+    "id": 12,
+    "image": "images/gujarati.jpg",
+    "name": "Gujarati Thali",
+    "category": "Dinner",
+    "price": "₹150",
+    "text": "The Gujarati Thali consists of various dishes like ringana methi nu shak , Gujarati khatti mithi daal , undhiyu , bhindi sambhariya , aloo rasila , steamed basmati rice, badshahi khichdi, Chapati, methi na thepla and bhakhri with kachumber salad along with various types of chutney."
+  },
+  {
+    "id": 13,
+    "image": "images/sandwich.jpg",
+    "name": "Sandwich",
+    "category": "Breakfast",
+    "price": "₹40",
+    "text": "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread"
+  },
+  {
+    "id": 14,
+    "image": "images/punjabi.jpg",
+    "name": "Punjabi Thali",
+    "category": "Lunch",
+    "price": "₹120",
+    "text": "Dishes like Sarson Da Saag, Tandoori Chicken, Shami Kebab, Makki di Roti, etc. are some Punjabi dishes that rule over the hearts of all food lovers. "
+  },
+  {
+    "id": 15,
+    "image": "images/Vanilla.webp",
+    "name": "Venilla Special",
+    "category": "Shakes",
+    "price": "₹80",
+    "text": "Blend 1 tsp vanilla bean paste with the Basic milkshake. Pour into a milkshake glass. Top with whipped cream, a wafer and a cherry. "
+  },
+  {
+    "id": 16,
+    "image": "images/mango.jpeg",
+    "name": "Mango Milkshake",
+    "category": "Shakes",
+    "price": "₹40",
+    "text": "It combine mangoes, milk, sugar and ice cubes in a blender and blend till it is smooth and frothy. "
+  },
+  {
+    "id": 17,
+    "image": "images/kesar.webp",
+    "name": "Kesar Pista Shake",
+    "category": "Shakes",
+    "price": "₹90",
+    "text": "Kesar Pista milkshake is a traditional Indian milkshake made with saffron, pistachios, milk, and sugar. "
+  }
+]
