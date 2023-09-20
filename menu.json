@@ -65,12 +65,20 @@
     "text": "Pohaa, also known as pauwa, sira, chira, aval or avalakki, among many other names, is flattened rice originating from the Indian subcontinent. Rice is parboiled before flattening so that it can be consumed with very little to no cooking."
   }, 
   {
-    "id": 10,
+    "id": 9,
     "image": "images/rajmarice.jpg",
     "name": "Rajma Rice",
     "category": "Lunch",
     "price": "₹60",
     "text": "Rajma chawal(rice) is a rice dish where cooked rice is mixed with rajma masala or kidney beans masala. A comfort food that comes together in a jiffy."
+  },
+  {
+    "id": 10,
+    "image": "images/mango.jpeg",
+    "name": "Mango Milkshake",
+    "category": "Shakes",
+    "price": "₹40",
+    "text": "It combine mangoes, milk, sugar and ice cubes in a blender and blend till it is smooth and frothy. "
   },
   {
     "id": 11,
@@ -114,14 +122,6 @@
   },
   {
     "id": 16,
-    "image": "images/mango.jpeg",
-    "name": "Mango Milkshake",
-    "category": "Shakes",
-    "price": "₹40",
-    "text": "It combine mangoes, milk, sugar and ice cubes in a blender and blend till it is smooth and frothy. "
-  },
-  {
-    "id": 17,
     "image": "images/pizza.jpg",
     "name": "pizza",
     "category": "Dinner",
