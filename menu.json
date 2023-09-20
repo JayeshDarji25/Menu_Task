@@ -86,7 +86,7 @@
     "name": "samaso",
     "category": "Breakfast",
     "price": "₹15",
-    "text": "A samosa or singara is a fried South Asian pastry with a savory filling, including ingredients such as spiced potatoes, onions, and peas. It may take different forms, including triangular, cone, or half-moon shapes, depending on the region."
+    "text": "A samosa or singara is a fried South Asian pastry with a savory filling, including ingredients such as spiced potatoes, onions, and peas."
   },
   {
     "id": 12,
@@ -94,7 +94,7 @@
     "name": "Gujarati Thali",
     "category": "Dinner",
     "price": "₹150",
-    "text": "The Gujarati Thali consists of various dishes like ringana methi nu shak , Gujarati khatti mithi daal , undhiyu , bhindi sambhariya , aloo rasila , steamed basmati rice, badshahi khichdi, Chapati, methi na thepla and bhakhri with kachumber salad along with various types of chutney."
+    "text": "The Gujarati Thali consists of various dishes like ringana methi nu shak , Gujarati khatti mithi daal , undhiyu , bhindi sambhariya  , steamed basmati rice, badshahi khichdi, Chapati and methi na thepla along with various types of chutney."
   },
   {
     "id": 13,
